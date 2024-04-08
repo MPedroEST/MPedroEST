@@ -48,5 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" style="width:50px; height:50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;">
 </div>
+### 🔥   My Stats :
 | ![Stats Graph](https://github-readme-stats.vercel.app/api?username=MPedroEST&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1) | ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=MPedroEST&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2) |
 |---|---|
