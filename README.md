@@ -3,7 +3,7 @@
   <a href="mailto:pmejia3210@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=microsoft-outlook&label=&color=e84c44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ASEUdev.ASEUdev&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MPedroEST.Pedro Mejia&"  />
 </div>
 
 # Hi there, I'm Pedro Mejia 👋
@@ -18,7 +18,7 @@
 
 
 
-### I write code 🤖:
+### I write code :
 
 ---
 
@@ -49,5 +49,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;">
 </div>
 ### 🔥   My Stats :
-| ![Stats Graph](https://github-readme-stats.vercel.app/api?username=MPedroEST&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1) | ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=MPedroEST&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2) |
-|---|---|
+
