@@ -3,7 +3,7 @@
   <a href="mailto:pmejia3210@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=microsoft-outlook&label=&color=e84c44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MPedroEST.Pedro Mejia&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MPedroEST.MPedroEST&"  />
 </div>
 
 # Hi there, I'm Pedro Mejia 👋
