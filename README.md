@@ -49,4 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;">
 </div>
 ### 🔥   My Stats :
-[![MPedroEST's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPedroEST)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub last commit](https://img.shields.io/github/last-commit/MPedroEST/LOGIN.svg)](https://github.com/MPedroEST/LOGIN)
+[![GitHub issues](https://img.shields.io/github/issues/MPedroEST/LOGIN.svg)](https://github.com/MPedroEST/LOGIN/issues)
+[![GitHub license](https://img.shields.io/github/license/MPedroEST/LOGIN.svg)](https://github.com/MPedroEST/LOGIN/blob/master/LICENSE)
+<br>
+[![GitHub last commit](https://img.shields.io/github/last-commit/MPedroEST/Profile-card.svg)](https://github.com/MPedroEST/Profile-card)
+[![GitHub issues](https://img.shields.io/github/issues/MPedroEST/Profile-card.svg)](https://github.com/MPedroEST/Profile-card/issues)
+[![GitHub license](https://img.shields.io/github/license/MPedroEST/Profile-card.svg)](https://github.com/MPedroEST/Profile-card/blob/master/LICENSE)
+
+
