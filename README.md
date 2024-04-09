@@ -49,4 +49,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;">
 </div>
 ### 🔥   My Stats :
-[![MPedroEST GitHub stats](https://github-readme-stats.vercel.app/api?username=MPedroEST)](https://github.com/anuraghazra/github-readme-stats)
+[![MPedroEST's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPedroEST)](https://github.com/anuraghazra/github-readme-stats)
