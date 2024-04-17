@@ -9,16 +9,9 @@
 </div>
 
 # Hi there, I'm Pedro Mejia 👋
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="dsmark" align="right"  height="24%" width="24%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-```mermaid
-flowchart TB
- A>"Computer"]  
- B[("Programs")] 
- C[("Tools")]
- A --> B
- A --> C
-``` 
+
 
 ### 👩‍💻  About Me
 
