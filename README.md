@@ -1,9 +1,11 @@
 <div align="center">
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{MPedroEST}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
   <a href="mailto:pmejia3210@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=microsoft-outlook&label=&color=e84c44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MPedroEST.MPedroEST&"  />
 </div>
 
 # Hi there, I'm Pedro Mejia 👋
@@ -48,12 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" style="width:50px; height:50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width:40px; height:40px;">
 </div>
-### 🔥   My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MPedroEST&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MPedroEST&hide_progress=false)
+### ⚙️ &nbsp;GitHub Analytics
 
-
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MPedroEST&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MPedroEST&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
